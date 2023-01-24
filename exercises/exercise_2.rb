@@ -13,5 +13,5 @@ puts @store1
 
 puts @store2
 
-@store1.name = "Sam"
+@store1.name = "Toronto"
 @store1.save
